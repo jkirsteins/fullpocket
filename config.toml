@@ -1,0 +1,37 @@
+baseURL = "https://archive.thatfullpocket.com/"
+title = "Full Pocket"
+theme ="basic"
+languageCode = "en-us"
+enableEmoji = true
+copyright = "© 2019 Made by <a href='https://twitter.com/jkirsteins'>@jkirsteins</a>."
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  titleEmoji = ":chart_with_upwards_trend:"
+  # change this!
+  twitter = "jkirsteins"
+
+[Permalinks]
+  post = "post/:slug"
+
+[[params.menu]]
+  name = "archive"
+  url = "post/"
+
+[[params.menu]]
+  name = "about"
+  url = "about/"
+
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true

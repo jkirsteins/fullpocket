@@ -9,24 +9,22 @@
   <span class="b">/ </span>
   <a href="{{ .Site.BaseURL  }}" class="b bb bw1 pb1 no-underline black">{{ .Site.Title }}</a>
   <span class="b"> / </span>
-  <a href="/post" class="b bb bw1 pb1 no-underline black">blog</a>
+  <a href="/post" class="b bb bw1 pb1 no-underline black">archive</a>
 
   <section id="main" class="mt5">
     <h1 itemprop="name" id="title">{{ .Title }}</h1>
     <span class="f6 gray">{{ .Date.Format "January 2, 2006" }}</span>
 
       <article itemprop="articleBody" id="content" class="w-90 lh-copy">
+        {{ if .Params.Exturl }}
+        <span class="f6 gray"><a
+          href="{{ .Params.Exturl  }}"
+          >{{ .Params.Exturl }}</a
+        ></span>
+        {{ end }}
+
         {{ .Content }}
       </article>
-
-      {{ if .Params.Exturl }}
-      <br/>
-      <strong>Read the original</strong> ➡️
-      <span class="f6 gray"><a
-        href="{{ .Params.Exturl  }}"
-        >{{ .Params.Exturl }}</a
-      ></span>
-      {{ end }}
 
       <!-- last modified note -->
       <span class="f6 gray mv3" title="Lastmod: {{ .Lastmod.Format "January 2, 2006" }}. Published at: {{ .PublishDate.Format "2006-01-02" }}.">

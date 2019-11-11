@@ -4,6 +4,7 @@ theme ="basic"
 languageCode = "en-us"
 enableEmoji = true
 copyright = "© 2019 Made by <a href='https://twitter.com/jkirsteins'>@jkirsteins</a>."
+googleAnalytics = "UA-151678519-1"
 
 [taxonomies]
   category = "categories"

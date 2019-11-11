@@ -1,5 +1,5 @@
 ---
-title: "Google Sheets the Personal Finance Goat"
+title: "Google Sheets, the Personal Finance GOAT"
 date: 2019-11-06T13:51:37+01:00
 draft: false
 exturl: https://alexjcohen.com/google-sheets-the-personal-finance-goat/

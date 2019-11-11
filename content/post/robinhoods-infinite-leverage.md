@@ -53,5 +53,5 @@ Here is an admittedly better and [more hilarious explanation](https://www.reddit
 
 ## The Fallout
 
-I suppose it ends in therapy for the people who lost 5 to 6 figures on this. For Robinhood this ends with [increased regulatory scrutiny](
+I suppose it ends in therapy for the people who lost 5 to 6 figures on this. For Robinhood, this ends with [increased regulatory scrutiny](
 https://www.bloomberg.com/news/articles/2019-11-07/robinhood-back-in-washington-s-crosshairs-after-leverage-glitch).

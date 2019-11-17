@@ -1,5 +1,5 @@
 ---
-title: "Consumer Finance Insights"
+title: "U.S. Consumer Financial Habits"
 date: 2019-11-12T13:54:34+01:00
 draft: false
 exturl: https://files.consumerfinance.gov/f/documents/201702_cfpb_Consumer-Insights-on-Managing-Spending.pdf

@@ -30,23 +30,30 @@ So how do people deal with those inefficiencies?
 
 # Enter U.S. Consumer Financial Protection Bureau
 
-The U.S. Consumer Financial Protection Bureau produced [a report](https://files.consumerfinance.gov/f/documents/201702_cfpb_Consumer-Insights-on-Managing-Spending.pdf) about peoples' financial habits.
+The U.S. Consumer Financial Protection Bureau produced [a report (2017)](https://files.consumerfinance.gov/f/documents/201702_cfpb_Consumer-Insights-on-Managing-Spending.pdf) about peoples' financial habits.
 
-Do people manage their finances? How? What are the goals? The obstacles?
+Do people intentionally manage their finances? Turns out, not so much.
+
+> Considering that nearly half of all consumers say they “prefer not to think about money,” it is not surprising that most do not have a comprehensive personal budget or plan for their personal finances.
 
 If you've ever picked up budgeting only to give up 3 weeks in, you might find these insights both relatable and actionable.
 
 # Executive Executive Summary
 
-There's an executive summary in the report, so here's an executive summary of the executive summary:
+There's an executive summary in the report, so here's an executive summary of the executive summary.
 
 People:
 
 - spend more than they intend;
-- want to manage their spending; and
+- underestimate the impact of minor purchases that add up;
+- want to manage their spending; but
 - find it overwhelming to actually manage their spending.
 
-A good way to combat this is with short feedback cycles. If you spend money, you need to know ASAP how much money you still have left, and for what. Ideally, you know this before you spend money.
+A good way to combat this is with short feedback cycles. 
+
+> Research studies in a lab setting have found that providing feedback on spending behaviors to consumers leads to reduced spending.
+
+If you spend money, you need to know ASAP how much money you still have left, and for what. Ideally, you know this before you spend the money.
 
 
 

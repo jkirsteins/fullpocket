@@ -15,9 +15,9 @@ There's no single takeaway in it. It does not contain advice on how to manage fi
 
 The article is really well done. However, if you need some gentle nudging, here are some points that I found interesting:
 
-- Work hard and be lucky;
-- U.S. student loans; and
-- Something always comes up.
+- working hard is important, but so is having fortunate circumstances;
+- it seems *too* easy to acquire upper 5 digit study debt in the U.S.;
+- deliberate financial management is hard. 
 
 ## Work Hard and Be Lucky
 
@@ -35,7 +35,7 @@ It wasn't *just* the hard work. It was also a bit of being at the right place, a
 
 ## U.S. Student Loans
 
-This part might be a bit boring to U.S. readers who - presumably - know this already. But others might be surprised at the amounts going towards repaying student loans. One of the family reports owing $70,000 for *unfinished education*.
+This part might be a bit boring to U.S. readers who - presumably - have a good grasp on this already. I was surprised, though, at the amounts going towards repaying student loans. One of the families reports owing $70,000 for *unfinished education*.
 
 It is already a lot of money to spend on education. But *unfinished education*? Ouch!
 
@@ -44,11 +44,15 @@ Interestingly, while you do hear a lot about the 5-to-6 digit student loans:
 - on average, it is around $20,000 (still a lot!); and
 - [people who are most likely to default, owe closer to $5,000](https://www.arnoldventures.org/stories/saddled-with-debt-and-an-unfinished-degree/).
 
-I did some Googling, and turns out - you can not easily default on study debt. [Only 0.04% of people that file for bankruptcy, can succeed in getting their student loans discharged](https://www.creditkarma.com/advice/i/student-loans-in-bankruptcy/).
+So it's not all *that* bad? 
 
-For reference for the U.S. readers, here's what [higher education costs around the world](https://www.insider.com/cost-of-college-countries-around-the-world-2018-6).
+On the other hand - in the U.S. you can not easily default on study debt. [Only 0.04% of people that file for bankruptcy, can succeed in getting their student loans discharged](https://www.creditkarma.com/advice/i/student-loans-in-bankruptcy/). This seems... not a lot?
 
-# Something Always Comes Up
+Sure, it shouldn't be *super* easy to cancel your obligations. But the option to file for bankruptcy exists for a reason, and 0.04% is an abysmal rate. It seems like one of those services where you can sign up with 1-click online, but to cancel membership you need to send a handwritten letter by mail.
+
+For further reference, here's what [higher education costs around the world](https://www.insider.com/cost-of-college-countries-around-the-world-2018-6).
+
+## Something Always Comes Up
 
 One family is retaining -4% of their monthly income. They commented, "something always comes up." Their income never seems to go as far as it needs to.
 
@@ -56,8 +60,6 @@ I said something similar to my wife on September 20th. ["Hey honey, something ca
 
 I'm kidding, though. It is a very relatable position. Anticipating "things that come up" is hard. [Being methodological about financial management is an unsolved problem](https://archive.thatfullpocket.com/post/u.s.-consumer-financial-habits/). We don't really have great tools to help people form better financial habits. 
 
-# Wrap-up
+## Wrap-up
 
-Apart from these points, the article does a great job exploring middle-class family expenses. As well as putting it in historical context.
-
-Go read it here: <https://www.nytimes.com/interactive/2019/10/03/your-money/middle-class-income.html>
+Overall, the article explores middle-class family expenses and puts them in context historically. It does a really good job at it. Read it here: <https://www.nytimes.com/interactive/2019/10/03/your-money/middle-class-income.html>

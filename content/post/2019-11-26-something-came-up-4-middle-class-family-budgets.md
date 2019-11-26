@@ -4,7 +4,7 @@ date: 2019-11-24T19:59:14+01:00
 exturl: https://www.nytimes.com/interactive/2019/10/03/your-money/middle-class-income.html
 categories: [weekly]
 tags: [budgeting,middle class,expense tracking]
-draft: true
+draft: false
 ---
 
 This week's article is from The New York Times about the budgets of 4 middle-class families.

@@ -4,16 +4,8 @@ date: 2019-12-02T21:41:10+01:00
 draft: true
 exturl: https://www.bbc.com/news/stories-50435014
 categories: [weekly]
-tags: [cryptocurrency,ponzi scheme,pyramid scheme,scam]
+tags: [cryptocurrency,ponzi scheme,pyramid scheme,scam,mlm,multi-level marketing,onecoin]
 ---
-
-*DISCLAIMER: This post contains mention of cryptocurrencies. Cryptocurrencies are known to induce anxiety, and may cause severe loss of financial security.*
-
-Cryptocurrency is hot, right? 🌶
-
-Well, it was hot. Then it wasn't. Then it was again. Now, I don't even know anymore.
-
-I don't know how hot it is, or how justified its hotness. However, there sure are a lot of stories with the words "cryptocurrency" and "scam" appearing together in the title.
 
 This week's article is called [Cryptoqueen: How this woman scammed the world, then vanished](https://www.bbc.com/news/stories-50435014).
 
@@ -23,65 +15,43 @@ It is about a Bulgarian entrepreneur who co-founded an impressive cryptocurrency
 
 The article is pretty wild, and I encourage you to [read it](https://www.bbc.com/news/stories-50435014), even if you usually have no interest in cryptocurrencies.
 
-The outline of the article is:
+# What's the Link to Personal Finance?
 
-- raise money
-- background
-- disappearance
-- speculation
+This is relevant to personal finance, in that it's a good reminder to:
 
-Additionally, I would like to highlight two points:
+- not treat cryptocurrencies as an investment;
+- don't ask your friends, family, and neighbors, to buy cryptocurrencies with you;
+- especially, don't ask your friends, family, and neighbors, to BORROW money, so that they could buy cryptocurrencies with you.
 
-- similar scams (*woops, spoiler alert*) can have an outsized impact on everyday people;
-- they didn't have a product!
+Just take a look at these quotes from the article, to see why.
 
-## Spoiler Alert
-
-Before going further, I'm going to cut to the chase here a bit. OneCoin is a ponzi scheme.
-
-Here is [a press release by the Central Bank of Samoa](https://www.cbs.gov.ws/index.php/dmsdocument/7184) mentioning this: 
-
-> OneCoin is labelled as a “Hybrid Ponzi-Pyramid Scheme” because the scam contains ingredients of both types of scams – Ponzi Scheme and Pyramid Scheme.
-
-This is pretty common. It would seem that cryptocurrencies end up as one of the following:
-
-- not a cryptocurrency (e.g. some database in the basement of an otherwise conservative financial institution); or
-- a scam; or
-- a vehicle to enable second order scams.
-
-To the last point, here is an aptly named website: [Days Since A Cryptocurrency Exchange Has Lost More Than $100 Million](http://dayssinceacryptocurrencyexchangehaslostmorethan100million.com)
-
-# Impact on Everyday People
-
-One thing you notice if you follow cryptocurrency news, is the impact on people who don't follow cryptocurrency news. 
-
-OneCoin is no different. It not only got people to buy in with their savings, but also those people then got their friends and family to buy in as well:
+Some people convinced their friends and family to buy in as well:
 
 > "Before long, she had invested €10,000 of her own money - and persuaded friends and family to invest €250,000 of theirs."
 
-Sometimes the amounts are significant:
+Sometimes the amounts are significant to the victim:
 
-> To buy the packages some sold their cattle, their land and even their houses - with disastrous consequences.
+> To buy the packages some sold their cattle, their land, and even their houses - with disastrous consequences.
 
-And so can be the consequences:
+The consequences can be significant too:
 
 > Some are running because they got loans from a bank. Some are hiding. Some are divorced.
 
 Ouch!
 
-Additionally, this part sounds like a scene from a movie:
+And then there's this part, which sounds like a scene from a movie:
 
-> One of the main OneCoin offices in Kampala is attached to a church. There are videos of the minister, known as Bishop Fred, leading the congregation in call and response. "One Life!" he shouts. "One Coin!" the congregations replies.
+> One of the main OneCoin offices in Kampala is attached to a church. There are videos of the minister, known as Bishop Fred, leading the congregation in call and response. "One Life!" he shouts. "One Coin!" the congregation's replies.
 
-# Impressive Lack of Technology
+# But Was It REAAAALLLYYY a Scam?
 
-*NB: this point not really related to personal finance. It's more related to my general surprise at the success of a cryptocurrency that isn't one in the first place*
+Raising $4bn+ is no small feat. Could it have been a scam? Could something come of it one day?
 
-Raising 4bn+ is no small feat. Especially considering they gathered those investments without having a product.
+It's probably a scam, yes, when people have collectively spent $4 billion on a product that *doesn't exist*:
 
 > It was a cryptocurrency company, and it had been running for a while - but it didn't have a blockchain.
 
-For the record, a blockchain is what enables all the claims about cryptocurrency ("decentralized", "independent", "revolutionary"). A cryptocurrency without a blockchain is little better than, let's say... a cheque.
+For the record, a blockchain is what enables all the claims about cryptocurrency ("decentralized", "independent", "revolutionary"). A cryptocurrency without a blockchain is a little better than, let's say... a cheque.
 
 While one might reasonably assume this would make the cryptocurrency less desirable, [one would be wrong](https://www.coindesk.com/onecoin-claims-its-not-a-ponzi-or-pyramid-scheme):
 
@@ -89,11 +59,16 @@ While one might reasonably assume this would make the cryptocurrency less desira
 
 Lacking a blockchain just makes it *centralized* (and thus more compliant) 🤷‍♂️ 
 
-Also, I find it amusing that this quote comes from a press release where they try to convince people they are not a ponzi scheme**.
+*(brb starting a new centralized cryptocurrency using Google Sheets)*
 
 # Bonus Content
 
-If you enjoy the *cryptocurrency scam* genre, here is another good one: [THE STRANGE TALE OF QUADRIGA](https://www.vanityfair.com/news/2019/11/the-strange-tale-of-quadriga-gerald-cotten).
+If you enjoy the *cryptocurrency scam* genre, here is another good one: [The Strange Tale of Quadriga](https://www.vanityfair.com/news/2019/11/the-strange-tale-of-quadriga-gerald-cotten).
+
+Related to cryptocurrency scams in general - there is this aptly named website: [Days Since A Cryptocurrency Exchange Has Lost More Than $100 Million](http://dayssinceacryptocurrencyexchangehaslostmorethan100million.com).
+
+Finally, [here is a statement](https://webcache.googleusercontent.com/search?q=cache:https://www.onelife.eu/en/news/corporate-announcement) by OneCoin, denying that it has been used to launder money. It is a good read, if you enjoy self-victimization.
+
 
 
 

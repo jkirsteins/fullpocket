@@ -7,19 +7,23 @@ categories: [weekly]
 tags: [finance management,budgeting,expenditure tracking,habit building,consumer behaviour,study]
 ---
 
+This week's article is a report on [U.S. consumer financial habits](https://files.consumerfinance.gov/f/documents/201702_cfpb_Consumer-Insights-on-Managing-Spending.pdf). It contains some interesting insights into consumer habits.
+
+<!--more-->
+
 Here's a simplified model for life:
 
 - you go to work and do your thing;
-- you get some money; 
+- you get some money;
 - you use that money to do your thing outside of work.
 
-Generally, people want to do little of the work thing, and a lot of the non-work thing. 
+Generally, people want to do little of the work thing, and a lot of the non-work thing.
 
-In practice, though, you get some inefficiencies. So the actual model is more like: 
+In practice, though, you get some inefficiencies. So the actual model is more like:
 
 - you go to work and do your thing;
-- you get some money; 
-- you waste some of it (say, 10%); 
+- you get some money;
+- you waste some of it (say, 10%);
 - you use 90% of that money to do your own thing.
 
 It's the second law of thermodynamics, as applied to financial management.
@@ -49,11 +53,8 @@ People:
 - want to manage their spending; but
 - find it overwhelming to actually manage their spending.
 
-A good way to combat this is with short feedback cycles. 
+A good way to combat this is with short feedback cycles.
 
 > Research studies in a lab setting have found that providing feedback on spending behaviors to consumers leads to reduced spending.
 
 If you spend money, you need to know ASAP how much money you still have left, and for what. Ideally, you know this before you spend the money.
-
-
-

@@ -7,17 +7,19 @@ tags: [budgeting,middle class,expense tracking]
 draft: false
 ---
 
-This week's article is from The New York Times about the budgets of 4 middle-class families.
+This week's article is from The New York Times about [the budgets of 4 middle-class families](https://www.nytimes.com/interactive/2019/10/03/your-money/middle-class-income.html).
 
 There's no single takeaway in it. It does not contain advice on how to manage finances. It does not offer value judgments on different expense categories. Quoting from the article, the stated goal is:
 
 > Their stories help illustrate how a middle-class existence has fundamentally shifted over a generation.
 
+<!--more-->
+
 The article is really well done. However, if you need some gentle nudging, here are some points that I found interesting:
 
 - working hard is important, but so is having fortunate circumstances;
 - it seems *too* easy to acquire upper 5 digit study debt in the U.S.;
-- deliberate financial management is hard. 
+- deliberate financial management is hard.
 
 ## Work Hard and Be Lucky
 
@@ -44,7 +46,7 @@ Interestingly, while you do hear a lot about the 5-to-6 digit student loans:
 - on average, it is around $20,000 (still a lot!); and
 - [people who are most likely to default, owe closer to $5,000](https://www.arnoldventures.org/stories/saddled-with-debt-and-an-unfinished-degree/).
 
-So it's not all *that* bad? 
+So it's not all *that* bad?
 
 On the other hand - in the U.S. you can not easily default on study debt. [Only 0.04% of people that file for bankruptcy, can succeed in getting their student loans discharged](https://www.creditkarma.com/advice/i/student-loans-in-bankruptcy/). This seems... not a lot?
 
@@ -58,7 +60,7 @@ One family is retaining -4% of their monthly income. They commented, "something 
 
 I said something similar to my wife on September 20th. ["Hey honey, something came up."](https://appleinsider.com/articles/19/09/07/apple-to-launch-iphone-11-on-sept-20-celebrate-with-reopening-of-fifth-avenue-store-in-nyc)
 
-I'm kidding, though. It is a very relatable position. Anticipating "things that come up" is hard. [Being methodological about financial management is an unsolved problem](https://archive.thatfullpocket.com/post/u.s.-consumer-financial-habits/). We don't really have great tools to help people form better financial habits. 
+I'm kidding, though. It is a very relatable position. Anticipating "things that come up" is hard. [Being methodological about financial management is an unsolved problem](https://archive.thatfullpocket.com/post/u.s.-consumer-financial-habits/). We don't really have great tools to help people form better financial habits.
 
 ## Wrap-up
 

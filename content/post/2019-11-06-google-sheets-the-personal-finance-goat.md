@@ -7,8 +7,12 @@ categories: [weekly]
 tags: [spreadsheets,google docs,budgeting,no-code tools]
 ---
 
-A great deep-dive by [Alex Cohen](https://twitter.com/anothercohen) into
+This week's article is a great deep-dive by [Alex Cohen](https://twitter.com/anothercohen) into
 how Google Sheets can be the ultimate tool for tracking your expenses.
+
+Read it here: [Google Sheets, the Personal Finance GOAT](https://alexjcohen.com/google-sheets-the-personal-finance-goat/).
+
+<!--more-->
 
 With a little effort, Google Sheets can:
 

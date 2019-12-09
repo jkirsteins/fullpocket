@@ -13,6 +13,8 @@ It is about a Bulgarian entrepreneur who co-founded an impressive cryptocurrency
 
 > Between August 2014 and March 2017 **more than €4bn** was invested in dozens of countries. From Pakistan to Brazil, from Hong Kong to Norway, from Canada to Yemen… even Palestine.
 
+<!--more-->
+
 The article is pretty wild, and I encourage you to [read it](https://www.bbc.com/news/stories-50435014), even if you usually have no interest in cryptocurrencies.
 
 # What's the Link to Personal Finance?

@@ -9,6 +9,10 @@ draft: false
 
 Imagine you could borrow an unlimited amount of money. You need USD &#36;2000 collateral, but otherwise everything goes - no questions asked. Want to borrow &#36;10k? Fine. &#36;100k? No problems. A cool million? Absolutely, with pleasure.
 
+This week's article is exactly about this situation: [Robinhood's Infinite Leverage](https://www.bloomberg.com/news/articles/2019-11-05/robinhood-has-a-glitch-that-gives-traders-infinite-leverage).
+
+<!--more-->
+
 How much would you borrow? What would you do with the money?
 
 Here's one idea:

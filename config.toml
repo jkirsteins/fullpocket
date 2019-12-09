@@ -1,10 +1,23 @@
 baseURL = "https://archive.thatfullpocket.com/"
 title = "Full Pocket"
-theme ="basic"
+theme ="hugo-theme-minos"
 languageCode = "en-us"
 enableEmoji = true
 copyright = "© 2019 Made by <a href='https://twitter.com/jkirsteins'>@jkirsteins</a>."
 googleAnalytics = "UA-151678519-1"
+
+[author]
+  name = "Jānis Kiršteins"
+
+[menu]
+
+  [[menu.main]]
+    name="About"
+    url="/about"
+
+  [[menu.main]]
+    name="Archive"
+    url="/post"
 
 [taxonomies]
   category = "categories"

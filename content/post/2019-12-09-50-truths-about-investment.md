@@ -5,6 +5,7 @@ draft: true
 exturl: https://www.fool.com/investing/general/2012/11/14/50-unfortunate-truths-about-investing.aspx
 categories: [weekly]
 tags: [mental models]
+ogimage: /50_truths.png
 draft: false
 ---
 

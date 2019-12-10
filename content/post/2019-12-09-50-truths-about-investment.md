@@ -1,11 +1,11 @@
 ---
-title: "Truths About Investment"
+title: "50 Truths"
 date: 2019-12-09T22:11:21+01:00
 draft: true
 exturl: https://www.fool.com/investing/general/2012/11/14/50-unfortunate-truths-about-investing.aspx
 categories: [weekly]
-tags: [investing,advice,short-and-sweet,good-for-beginners,not-investment-advice]
-draft: true
+tags: [mental models]
+draft: false
 ---
 
 This week's article is titled [50 Unfortunate Truths About Investing
@@ -15,20 +15,34 @@ It is a concise list of insights for investors. However, it is also a great sour
 
 <!--more-->
 
-If you are considering starting to invest, pay extra attention to:
-<br/>
+This article is hard to summarize because it is already very concise. However, if I were to distill it to a few words:
+
+> Great, easily digestible ideas to keep in the back of one's mind.
+
+Some of these are good mental models of the financial world. Some are good mental models in general.
+
+## Target audience
+
+Are you planning to start investing, or have been investing, but don't have much experience? Great, keep some of these ideas in mind.
+
+Do you know someone who emptied their credit card to invest in cryptocurrencies?  Has a family member been talking about a YouTube video on the head-and-shoulders pattern? Send this list to them!
+
+Do you feel like your trades are well-informed? Do news and expert advice strongly influence your actions? You might want to skim the list.
+
+## Summarize!
+
+Alright, alright, if you're still not convinced, then here are some hints on how to parse this.
+
+If you are a novice to investing, pay extra attention to
 **3**, **5**, **9**, **10**, **11**, **14**, **22**, **24**, **26**, **31**, **32**, **33**, **34**, **35**, **49**, **50**.
 
-Are you looking for mentorship? Have you found a great online course on investing? Have you ever been advised about resistance levels?  You must check out points
-<br/>
-**4**, **6**, **7**, **12**, **17**, **23**, **27**, **30**.
+Are you looking for mentorship? Have you found a great online course on investing? Have you ever been advised about resistance levels? You must check out points **4**, **6**, **7**, **12**, **17**, **23**, **27**, **30**.
 
-Finally, if you catch yourself obsessively following the news to get a feel for the market, check out<br/>
-**8**, **15**, **21**, **28**.
+Finally, if you catch yourself obsessively following the news to get a feel for the market, check out **8**, **15**, **21**, **28**.
 
 ## About the author
 
-It's by [Morgan Housel](https://twitter.com/morganhousel). If you're into finance, then he has great insights, and great writing.
+It's by [Morgan Housel](https://www.collaborativefund.com/blog/authors/morgan/). If you're into finance, then check out some of his articles. He writes really well, and usually has good insights.
 
 ## Bonus content
 
